@@ -18,7 +18,7 @@ Exponential Moving Average for TCS over an year:
 
 
 Relative Strength Index(RSI) for TCS over an year:
-![example relative strength index color chart](screenshots/candlestick.png)
+![example relative strength index color chart](screenshots/relative_strength_index.png)
 
 
 ## Getting started:
